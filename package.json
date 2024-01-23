@@ -1,0 +1,19 @@
+{
+  "name": "newbin.me",
+  "version": "1.0.0",
+  "description": "개쩌는포폴(아님)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^10.4.17",
+    "postcss": "^8.4.33"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
